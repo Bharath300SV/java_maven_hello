@@ -10,7 +10,7 @@
       <img src="https://octodex.github.com/images/spidertocat.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
       <h2 class="text-center">Hello 2024</h2>
-      <p class="text-center">Welcome To The IT World Of Devops</p>
+      <p class="text-center">Welcome to DevOps IT World</p>
   </div>
 </body>
 </html>
